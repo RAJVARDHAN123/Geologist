@@ -5,6 +5,7 @@ class Iron {
           'friction':3,
           'density':30
       }
+      
       this.body = Bodies.rectangle(x, y, 50, 50, options);
       this.width = 80;
       this.height = 50;
